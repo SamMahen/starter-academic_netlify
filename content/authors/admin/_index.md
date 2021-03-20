@@ -69,9 +69,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a research assistant and a Ph.D. student in the Natural Language Processing (NLP) lab at Virginia Commonwealth University (VCU), USA. I work mainly on NLP related projects specially Relation Extraction (RE), Named Entity Recognition (NER). I have a bachelor’s degree focused on Computer Science and I was an Engineer with a history of working in the computer software industry. My expertise mainly includes NLP, Artificial Intelligence/Deep Learning, and Machine Learning. I'm proficient in Python, Java, and C/C++ I'm a Self-motivated and hard worker seeking an opportunity to work in a challenging research environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
