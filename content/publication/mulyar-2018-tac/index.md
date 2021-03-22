@@ -37,13 +37,13 @@ projects: []
 publishDate: '2021-03-22T04:38:59.693380Z'
 publication_types:
 - '2'
-abstract: This draft paper describes our participa- tion in the TAC SRIE 2018 Challenge
+abstract: This draft paper describes our participation in the TAC SRIE 2018 Challenge
   for extracting experimental design factors for the systematic review process from
-  the method section of biomedical journal ar- ticles. We discuss our system, medaCy,
-  a python-based supervised multi-class clas- sification system that uses Conditional
+  the method section of biomedical journal articles. We discuss our system, medaCy,
+  a python-based supervised multi-class classification system that uses Conditional
   Random Fields. Our system place fourth for the challenge. The results show that
   we are better able to identify Animal and Dose Group design factors than Exposure
-  and Endpoint. This paper includes an anal- ysis of our results and future directions
+  and Endpoint. This paper includes an analysis of our results and future directions
   to improve the extraction.
 publication: '*Strain*'
 ---
