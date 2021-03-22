@@ -27,11 +27,11 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: StaVirginia Commonwealth University
-    year: 2017-Present
-  - course: BSc Computer Science (special)
-    institution: University of Peradeniya
-    year: 2011-2015
+    institution: Virginia Commonwealth University, USA
+    year: 2017 - Present
+  - course: BSc Computer Science (Special)
+    institution: University of Peradeniya, SL
+    year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,16 +43,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Samantha370808
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=3hGpPSYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SamMahen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/sammahen/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
