@@ -48,5 +48,5 @@ abstract: Text mining techniques are useful in extracting hidden information abo
 publication: '*2016 sixteenth international conference on advances in ict for emerging
   regions (icter)*'
 
-url_pdf: "paper.pdf"
+url_pdf: "/paper.pdf"
 ---
