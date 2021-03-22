@@ -1,39 +1,37 @@
 ---
 # Display name
-title: samantha
+title: Samantha (Darshini) Mahendran
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate research assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Virginia Commonwealth University (VCU)
+  url: https://www.vcu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+- NLP
+- Machine Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Information Extraction
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: StaVirginia Commonwealth University
+    year: 2017-Present
+  - course: BSc Computer Science (special)
+    institution: University of Peradeniya
+    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +69,4 @@ highlight_name: false
 ---
 I’m a research assistant and a Ph.D. student in the Natural Language Processing (NLP) lab at Virginia Commonwealth University (VCU), USA. I work mainly on NLP related projects specially Relation Extraction (RE), Named Entity Recognition (NER). I have a bachelor’s degree focused on Computer Science and I was an Engineer with a history of working in the computer software industry. My expertise mainly includes NLP, Artificial Intelligence/Deep Learning, and Machine Learning. I'm proficient in Python, Java, and C/C++ I'm a Self-motivated and hard worker seeking an opportunity to work in a challenging research environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
