@@ -1,34 +1,43 @@
 ---
-title: Example Talk
+title: Extracting Adverse Drug Events from Clinical Notes
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: AMIA 2021 Virtual Informatics Summit
+event_url: https://www.amia.org/summit2021
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Virtual
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Exploring different approaches for ADE Extraction
+abstract: "Adverse drug events (ADEs) are unexpected incidents caused by the administration of a drug or medication. To
+identify and extract these events, we require information about not just the drug itself but attributes describing the
+drug (e.g., strength, dosage), the reason why the drug was initially prescribed, and any adverse reaction to the drug.
+This paper explores the relationship between a drug and its associated attributes using relation extraction techniques.
+We explore three approaches: a rule-based approach, a deep learning-based approach, and a contextualized language
+model-based approach. We evaluate our system on the n2c2-2018 ADE extraction dataset. Our experimental results
+demonstrate that the contextualized language model-based approach outperformed other models overall and obtain
+the state-of-the-art performance in ADE extraction with a Precision of 0.93, Recall of 0.96, and an F 1 score of
+0.94; however, for certain relation types, the rule-based approach obtained a higher Precision and Recall than either
+learning approach."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-03-25T11:30:00Z"
+date_end: "2021-03-25T13:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -40,7 +49,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "media/AMIA_2021.pdf"
 url_slides: ""
 url_video: ""
 
