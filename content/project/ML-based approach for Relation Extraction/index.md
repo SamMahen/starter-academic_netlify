@@ -1,6 +1,6 @@
 ---
-title: Rule based approach for relation extraction using NLP - RelEx (Rule-based)
-summary: Determines the relation between two entities utilizing the co-location information between them.
+title: Machine learning based approach for Semantic Relation Extraction and Classification - SciREL
+summary: Feature-vector based, supervised machine learning approach to extract explicit semantic relations and classify them
 tags:
 - NLP
 date: "2018-02-01T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2018-02-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Graph-based traversal algorithm
+  caption: Pipeline method for ML approach
   focal_point: Smart
 
 links:
