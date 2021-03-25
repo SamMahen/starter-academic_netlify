@@ -44,10 +44,9 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=3hGpPSYAAAAJ&hl=en
 url_code: ""
 url_pdf: "media/AMIA_2021.pdf"
 url_slides: ""
