@@ -1,6 +1,5 @@
 ---
-title: RelEx - A system for clinical relation extraction via Convolutional Neural Network
-
+title: A system for multi-class clinical relation extraction
 event: AMIA 2019 Annual Symposium (NLP working group)
 event_url: https://www.amia.org/amia2019?gclid=CjwKCAjw6fCCBhBNEiwAem5SO_B1qfERGP_Ql3P2LkoqpSDIvji54SxIOnYf6vn75of3sdAWTcUOtRoC3mQQAvD_BwE
 
@@ -12,12 +11,8 @@ location: Washington, D.C
 #   postcode: '94305'
 #   country: United States
 
-summary: Exploring different approaches for ADE Extraction
-abstract: "Relation extraction is a task of natural language processing (NLP) to detect and classify the relation between two entities in a text. 
-It plays an important role in various NLP related applications such as clinical trial screening, clinical decision making. 
-Due to the exponential growth of text in recent years, automatic  extraction  of  semantic relations from text has received growing attention. 
-Relation extraction in the clinical domain is more challenging as clinical records can contain multiple pairs of medical entities in the same sentence. 
-Convolutional neural networks (CNNs) have been trending due to its strong learning ability features. The max-pooling method of the CNN models help in extracting the most significant features output from the convolution filter.In previous work, CNN models performed well on clinical relation extraction benchmarks, therefore we decided to evaluate its performance against ADE relation extraction benchmarks. Here we describe our relation extraction system for identifying and classifying relations  from  clinical  text using CNNs.   Our  system  consists  of  two  components - sentence-CNN and segment-CNN. We utilize two different data sets: i2b2/VA 2010 , N2C2 2018. The i2b2 corpus includes problem related attributes andrelations from patient discharge summaries. Analysis of our results show segment-CNN outperforms sentence-CNN and this system can be used to extract and clas-sify ADE relation extraction benchmarks. We plan to investigate further into the multi-class labeling of the sentence-CNN and further improve segment-CNN for relation extraction."
+summary: Developing a system for multi-class clinical relation extraction
+abstract: "Relation extraction is a natural language processing (NLP) to detect and classify the relation between two entities in a text. Due to the exponential growth of text in recent years, automatic extraction of semantic relations from text has received growing attention. In this work, we explore three deep learning-based approaches for the multi-class classification of relations. The first explores three Convolutional Neural Networks (CNNs) architectures; one being a novel multi-label architecture. The second utilizes Bidirectional Encoders Representation from Transformers (BERT) language models. The third proposes a hierarchical based approach to remove the influence of the negative instances during the multi-class classification. We evaluate our method on a clinical dataset annotated for medical problems, treatments, and tests; and their relations. We report the precision, recall and $F_1$ scores and compare our method to six current state-of-the-art approaches. Our results show that our novel multi-label CNN architecture obtained a higher F1 score overall and outperforms the other CNN architectures; classes with fewer instances perform better with BERT-based models; and there is a significant improvement in the performance across all three CNN models when applying the hierarchical based approach."
 
 
 # Talk start and end times.
