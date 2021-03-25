@@ -26,8 +26,8 @@ learning approach."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-25T11:30:00Z"
-date_end: "2021-03-25T13:30:00Z"
+date: "2021-03-25T10:00:00Z"
+date_end: "2021-03-25T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
