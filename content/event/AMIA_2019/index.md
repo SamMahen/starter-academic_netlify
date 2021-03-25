@@ -1,10 +1,10 @@
 ---
-title: Extracting Adverse Drug Events from Clinical Notes
+title: RelEx: A system for clinical relation extraction via Convolutional Neural Network
 
-event: AMIA 2021 Virtual Informatics Summit
-event_url: https://www.amia.org/summit2021
+event: AMIA 2019 Annual Symposium (NLP working group)
+event_url: https://www.amia.org/amia2019?gclid=CjwKCAjw6fCCBhBNEiwAem5SO_B1qfERGP_Ql3P2LkoqpSDIvji54SxIOnYf6vn75of3sdAWTcUOtRoC3mQQAvD_BwE
 
-location: Virtual
+location: Washington, D.C
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -13,21 +13,17 @@ location: Virtual
 #   country: United States
 
 summary: Exploring different approaches for ADE Extraction
-abstract: "Adverse drug events (ADEs) are unexpected incidents caused by the administration of a drug or medication. To
-identify and extract these events, we require information about not just the drug itself but attributes describing the
-drug (e.g., strength, dosage), the reason why the drug was initially prescribed, and any adverse reaction to the drug.
-This paper explores the relationship between a drug and its associated attributes using relation extraction techniques.
-We explore three approaches: a rule-based approach, a deep learning-based approach, and a contextualized language
-model-based approach. We evaluate our system on the n2c2-2018 ADE extraction dataset. Our experimental results
-demonstrate that the contextualized language model-based approach outperformed other models overall and obtain
-the state-of-the-art performance in ADE extraction with a Precision of 0.93, Recall of 0.96, and an F 1 score of
-0.94; however, for certain relation types, the rule-based approach obtained a higher Precision and Recall than either
-learning approach."
+abstract: "Relation extraction is a task of natural language processing (NLP) to detect and classify the relation between two entities in a text. 
+It plays an important role in various NLP related applications such as clinical trial screening, clinical decision making. 
+Due to the exponential growth of text in recent years, automatic  extraction  of  semantic relations from text has received growing attention. 
+Relation extraction in the clinical domain is more challenging as clinical records can contain multiple pairs of medical entities in the same sentence. 
+Convolutional neural networks (CNNs) have been trending due to its strong learning ability features. The max-pooling method of the CNN models help in extracting the most significant features output from the convolution filter.In previous work, CNN models performed well on clinical relation extraction benchmarks, therefore we decided to evaluate its performance against ADE relation extraction benchmarks. Here we describe our relation extraction system for identifying and classifying relations  from  clinical  text using CNNs.   Our  system  consists  of  two  components - sentence-CNN and segment-CNN. We utilize two different data sets: i2b2/VA 2010 , N2C2 2018. The i2b2 corpus includes problem related attributes andrelations from patient discharge summaries. Analysis of our results show segment-CNN outperforms sentence-CNN and this system can be used to extract and clas-sify ADE relation extraction benchmarks. We plan to investigate further into the multi-class labeling of the sentence-CNN and further improve segment-CNN for relation extraction."
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-25T10:00:00Z"
-date_end: "2021-03-25T11:30:00Z"
+date: "2019-11-16T10:00:00Z"
+date_end: "2019-11-20T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -48,9 +44,9 @@ links:
   icon_pack: fas
   link: https://scholar.google.com/citations?user=3hGpPSYAAAAJ&hl=en
 url_code: ""
-url_pdf: "media/AMIA_2021.pdf"
+url_pdf: "media/AMIA_2019.pdf"
 url_slides: ""
-url_video: "media/AMIA_2021.mp4"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
