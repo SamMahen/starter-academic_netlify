@@ -1,10 +1,10 @@
 ---
-title: Extracting Adverse Drug Events from Clinical Notes
+title: NLPatVCU CLEF 2020 - ChEMU Shared Task System Description
 
-event: AMIA 2021 Virtual Informatics Summit
-event_url: https://www.amia.org/summit2021
+event: CLEF 2020 Conference and Labs of the Evaluation Forum
+event_url: https://clef2020.clef-initiative.eu/index.php?page=Pages/labs.html
 
-location: Virtual
+location: Greece
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -13,21 +13,23 @@ location: Virtual
 #   country: United States
 
 summary: Exploring different approaches for ADE Extraction
-abstract: "Adverse drug events (ADEs) are unexpected incidents caused by the administration of a drug or medication. To
-identify and extract these events, we require information about not just the drug itself but attributes describing the
-drug (e.g., strength, dosage), the reason why the drug was initially prescribed, and any adverse reaction to the drug.
-This paper explores the relationship between a drug and its associated attributes using relation extraction techniques.
-We explore three approaches: a rule-based approach, a deep learning-based approach, and a contextualized language
-model-based approach. We evaluate our system on the n2c2-2018 ADE extraction dataset. Our experimental results
-demonstrate that the contextualized language model-based approach outperformed other models overall and obtain
-the state-of-the-art performance in ADE extraction with a Precision of 0.93, Recall of 0.96, and an F 1 score of
-0.94; however, for certain relation types, the rule-based approach obtained a higher Precision and Recall than either
-learning approach."
+abstract: "Here we describe our team’s participation in the Tracks
+1 & 2 from Conference and Labs of the Evaluation Forum (CLEF 2020)
+Challenge organized by Cheminformatics Elsevier Melbourne University
+for extracting information over chemical reactions from patents. We dis-
+cuss our systems: MedaCy, a python-based supervised multi-class entity
+recognition system, and RelEx, a python-based relation extraction sys-
+tem which includes rule-based and supervised learning pipelines. Our
+best model for Task 1 obtained an overall relaxed precision of 0.95 and
+exact precision of 0.87; relaxed recall of 0.99 and exact recall of 0.86; and
+relaxed F score of 0.97 and exact F score of 0.87. Our best model for
+Task 2 obtained an overall precision of 0.80; recall of 0.54; and F score
+of 0.65."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-25T10:00:00Z"
-date_end: "2021-03-25T11:30:00Z"
+date: "2020-09-22T10:00:00Z"
+date_end: "2020-09-25T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -44,14 +46,13 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=3hGpPSYAAAAJ&hl=en
 url_code: ""
-url_pdf: "media/AMIA_2021.pdf"
+url_pdf: "media/CLEF_2020.pdf"
 url_slides: ""
-url_video: "media/AMIA_2021.mp4"
+url_video: "media/CLEF_2020.mp4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -65,8 +66,8 @@ url_video: "media/AMIA_2021.mp4"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- BERT-based approach for Relation Extraction
+# projects:
+# - BERT-based approach for Relation Extraction
 ---
 
 {{% callout note %}}

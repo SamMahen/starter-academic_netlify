@@ -44,7 +44,7 @@ image:
   focal_point: Right
 
 links:
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=3hGpPSYAAAAJ&hl=en
 url_code: ""
@@ -64,8 +64,8 @@ url_video: "media/AMIA_2021.mp4"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- BERT-based approach for Relation Extraction
+# projects:
+# - BERT-based approach for Relation Extraction
 ---
 
 {{% callout note %}}
