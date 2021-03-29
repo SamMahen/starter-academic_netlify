@@ -2,7 +2,7 @@
 title: K-Nearest Neighbors algorithm (KNN) on Cuda
 summary: Developing KNN algorithm on the GPU (Graphics Processing Unit) using CUDA.
 tags:
-- NLP
+- Other
 date: "2019-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "media/KNN.pdf"
 url_slides: ""
 url_video: ""
 
