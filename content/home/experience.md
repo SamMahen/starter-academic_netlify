@@ -49,4 +49,11 @@ experience:
     location: Colombo, Sri Lanka
     date_start: '2015-09-01'
     date_end: '2015-12-31'
+
+  - title: Student Researcher
+    company: University of Peradeniya
+    company_url: 'https://www.pdn.ac.lk/'
+    location: Peradeniya, Sri Lanka
+    date_start: '2015-01-01'
+    date_end: '2015-09-01'
 ---
