@@ -38,14 +38,14 @@ experience:
 
   - title: Engineer
     company: MilleniumIT
-    company_url: ''
+    company_url: 'https://www.lseg.com/'
     location: Colombo, Sri Lanka
     date_start: '2016-03-01'
     date_end: '2017-07-31'
 
   - title: Trainee Software Engineer
     company: IFS R&D
-    company_url: ''
+    company_url: 'https://www.ifs.com/'
     location: Colombo, Sri Lanka
     date_start: '2015-09-01'
     date_end: '2015-12-31'
