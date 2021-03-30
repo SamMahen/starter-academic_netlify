@@ -23,7 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- title: 3rd Place in Best student paper competition
+  # certificate_url:
   date_end: ""
   date_start: "2021-03-22"
   description: ""
@@ -31,28 +32,28 @@ item:
   organization_url: https://www.amia.org/summit2021
   title: 3rd Place in Best student paper competition
   url: ""
-- certificate_url:
-  date_end: ""
-  date_start: "2015-12-5"
-  description: Award for academic excellence by the University
-  organization: University of Peradeniya
-  organization_url: https://www.pdn.ac.lk/
-  title: University award for academic excellence
-  url: 
-- certificate_url: 
-  date_end: ""
-  date_start: "2019-11-19"
-  description: "Awarded to attend and deliver a talk in the American Medical Informatics Association (AMIA)-2019 annual symposium"
-  organization: Virginia Commonwealth University
-  organization_url: https://www.vcu.edu/
-  title: Travel grant award
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-03-22"
-  description: "Award to attend and deliver a talk in the American Medical Informatics Association (AMIA)-2021 Virtual Informatics Summit"
-  organization: Virginia Commonwealth University
-  organization_url: https://www.vcu.edu/
-  title: Travel grant award
-  url: ""
+# - certificate_url:
+#   date_end: ""
+#   date_start: "2015-12-5"
+#   description: Award for academic excellence by the University
+#   organization: University of Peradeniya
+#   organization_url: https://www.pdn.ac.lk/
+#   title: University award for academic excellence
+#   url: 
+# - certificate_url: 
+#   date_end: ""
+#   date_start: "2019-11-19"
+#   description: "Awarded to attend and deliver a talk in the American Medical Informatics Association (AMIA)-2019 annual symposium"
+#   organization: Virginia Commonwealth University
+#   organization_url: https://www.vcu.edu/
+#   title: Travel grant award
+#   url: ""
+# - certificate_url: 
+#   date_end: ""
+#   date_start: "2021-03-22"
+#   description: "Award to attend and deliver a talk in the American Medical Informatics Association (AMIA)-2021 Virtual Informatics Summit"
+#   organization: Virginia Commonwealth University
+#   organization_url: https://www.vcu.edu/
+#   title: Travel grant award
+#   url: ""
 ---
