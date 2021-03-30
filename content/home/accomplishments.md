@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
@@ -55,4 +55,4 @@ item:
   organization_url: https://www.vcu.edu/
   title: 'Travel grant award'
   url: ""
----
+--- -->
