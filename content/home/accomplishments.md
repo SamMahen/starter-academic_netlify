@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
@@ -45,7 +45,7 @@ item:
   description: "Awarded to attend and deliver a talk in the American Medical Informatics Association (AMIA)-2019 annual symposium"
   organization: Virginia Commonwealth University
   organization_url: https://www.vcu.edu/
-  title: 'Travel grant award'
+  title: Travel grant award
   url: ""
 - certificate_url: 
   date_end: ""
@@ -53,6 +53,6 @@ item:
   description: "Award to attend and deliver a talk in the American Medical Informatics Association (AMIA)-2021 Virtual Informatics Summit"
   organization: Virginia Commonwealth University
   organization_url: https://www.vcu.edu/
-  title: 'Travel grant award'
+  title: Travel grant award
   url: ""
---- -->
+---
