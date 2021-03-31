@@ -36,7 +36,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'AMIA-2019'
   focal_point: Right
 
 links:
