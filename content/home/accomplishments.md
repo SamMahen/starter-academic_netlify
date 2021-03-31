@@ -28,7 +28,6 @@ item:
   description: "Nominated for Best student paper as one of the six finalists. Ranked 3rd in the competition."
   organization: American Medical Informatics Association (AMIA)
   organization_url: https://www.amia.org/summit2021
-  title: 3rd Place in Best student paper competition
 # - title: University award for academic excellence
 #   date_end: ""
 #   date_start: "2015-12-5"
