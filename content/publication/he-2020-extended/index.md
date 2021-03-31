@@ -15,6 +15,7 @@ authors:
 - Zenan Zhai
 - Biaoyan Fang
 - Hiyori Yoshikawa
+- Darshini Mahendran
 - ' others'
 tags: []
 categories: []
@@ -42,13 +43,13 @@ publication_types:
 - '1'
 abstract: The discovery of new chemical compounds is perceived as a key driver of
   the chemistry industry and many other economic sectors. The information about the
-  new discoveries are usually disclosed in sci- entific literature and in particular,
+  new discoveries are usually disclosed in scientific literature and in particular,
   in chemical patents, since patents are often the first venues where the new chemical
   compounds are publicized. Despite the significance of the information provided in
   chemical patents, extracting the information from patents is costly due to the large
-  volume of existing patents and its drastic expansion rate. The Cheminformat- ics
+  volume of existing patents and its drastic expansion rate. The Cheminformatics
   Elsevier Melbourne University (ChEMU) evaluation lab 2020, part of the Conference
-  and Labs of the Evaluation Forum 2020 (CLEF2020), provides a platform to advance
+  and Labs of the Evaluation Forum 2020 (CLEF 2020), provides a platform to advance
   the state-of-the-arts in automatic in- formation extraction systems over chemical
   patents. In particular, we focus on extracting synthesis process of new chemical
   compounds from chemical patents. Using the ChEMU corpus of 1500 “snippets” (text

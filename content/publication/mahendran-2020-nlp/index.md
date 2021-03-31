@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Darshini Mahendran
 - Cora Lewis
-- Bridget McInnes
+- Bridget T McInnes
 tags: []
 categories: []
 date: '2020-01-01'

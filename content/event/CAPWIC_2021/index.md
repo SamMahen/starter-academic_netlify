@@ -3,7 +3,7 @@ title: A system for multi-class clinical relation extraction
 event: AMIA 2019 Annual Symposium (NLP working group)
 event_url: https://www.amia.org/amia2019?gclid=CjwKCAjw6fCCBhBNEiwAem5SO_B1qfERGP_Ql3P2LkoqpSDIvji54SxIOnYf6vn75of3sdAWTcUOtRoC3mQQAvD_BwE
 
-location: Washington, D.C
+location: Virtual
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -17,8 +17,8 @@ abstract: "Relation extraction is a natural language processing (NLP) to detect 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-16T10:00:00Z"
-date_end: "2019-11-20T11:30:00Z"
+date: "2021-03-26T10:00:00Z"
+date_end: "2021-03-27T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

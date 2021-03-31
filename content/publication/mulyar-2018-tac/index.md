@@ -12,7 +12,7 @@ authors:
 - Grant Matteo
 - Neha Dill
 - Nastassja Lewinski
-- Bridget McInnes
+- Bridget McInnes T
 tags: []
 categories: []
 date: '2018-01-01'
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T04:38:59.693380Z'
+publishDate: '2018-03-22T04:38:59.693380Z'
 publication_types:
 - '2'
 abstract: This draft paper describes our participation in the TAC SRIE 2018 Challenge
@@ -45,5 +45,5 @@ abstract: This draft paper describes our participation in the TAC SRIE 2018 Chal
   we are better able to identify Animal and Dose Group design factors than Exposure
   and Endpoint. This paper includes an analysis of our results and future directions
   to improve the extraction.
-publication: '*Strain*'
+publication: 'Text Analysis Conference (TAC) Systematic Review Information Extraction (SRIE)'
 ---

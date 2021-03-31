@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'SciREL at SemEval-2018 Task 7: A System for Semantic Relation Extraction and
-  Classification'
+title: 'SciREL at SemEval-2018 Task 7: A System for Semantic Relation Extraction and Classification'
 subtitle: ''
 summary: ''
 authors:
 - Darshini Mahendran
 - Chathurika Brahmana
-- Bridget McInnes
+- Bridget T McInnes
 tags: []
 categories: []
 date: '2018-01-01'
@@ -33,16 +32,16 @@ projects: []
 publishDate: '2021-03-22T05:19:44.981858Z'
 publication_types:
 - '1'
-abstract: 'This paper describes our system, SciREL (Sci- entific abstract RELation
-  extraction system), developed for the SemEval 2018 Task 7: Se- mantic Relation Extraction
-  and Classification in Scientific Papers. We present a feature- vector based system
-  to extract explicit se- mantic relation and classify them. Our sys- tem is trained
+abstract: 'This paper describes our system, SciREL (Scientific abstract RELation
+  extraction system), developed for the SemEval 2018 Task 7: Semantic Relation Extraction
+  and Classification in Scientific Papers. We present a feature-vector based system
+  to extract explicit semantic relation and classify them. Our system is trained
   in the ACL corpus (Bird et al., 2008) that contains annotated abstracts given by
   the task organizers. When an abstract with annotated entities is given as the input
   into our system, it extracts the semantic relations through a set of defined features
-  and classi- fies them into one of the given six categories of relations through
+  and classifies them into one of the given six categories of relations through
   feature engineering and a learned model. For the best combination of features our
-  system SciREL obtained an F- measure of 20.03 on the official test corpus in the
+  system SciREL obtained an F-measure of 20.03 on the official test corpus in the
   relation classification Subtask 1.1. In this paper, we provide an in-depth error
   analysis of our results to prevent duplication of research efforts in the development
   of future systems.'

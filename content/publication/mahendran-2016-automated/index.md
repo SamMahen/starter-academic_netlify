@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - D Mahendran
-- RD Nawarathna
+- R D Nawarathna
 tags: []
 categories: []
 date: '2016-01-01'
