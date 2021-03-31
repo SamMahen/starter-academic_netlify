@@ -23,18 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: 3rd Place in Best student paper competition
-  date_start: "2021-03-22"
-  description: Nominated for Best student paper as one of the six finalists. Ranked 3rd in the competition.
-  organization: American Medical Informatics Association (AMIA)
-  organization_url: https://www.amia.org/summit2021
-# - title: University award for academic excellence
-#   date_end: ""
-#   date_start: "2015-12-5"
-#   description: Award for academic excellence by the University
-#   organization: University of Peradeniya
-#   organization_url: https://www.pdn.ac.lk/
-#   url: 
+# - title: 3rd Place in Best student paper competition
+#   date_start: "2021-03-22"
+#   description: Nominated for Best student paper as one of the six finalists. Ranked 3rd in the competition.
+#   organization: American Medical Informatics Association (AMIA)
+#   organization_url: https://www.amia.org/summit2021
+- title: University award for academic excellence
+  date_end: ""
+  date_start: "2015-12-5"
+  description: Award for academic excellence by the University
+  organization: University of Peradeniya
+  organization_url: https://www.pdn.ac.lk/
 # - title: Travel grant award - 2021
 #   date_end: ""
 #   date_start: "2021-03-22"

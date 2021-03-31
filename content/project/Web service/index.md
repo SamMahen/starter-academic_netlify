@@ -9,8 +9,8 @@ date: "2014-04-01T00:00:00Z"
 external_link: ""
 
 # image:
-  caption: Mappings of the different kernel configurations.
-  focal_point: Smart
+  # caption: Mappings of the different kernel configurations.
+  # focal_point: Smart
 
 links:
 # - icon: twitter
