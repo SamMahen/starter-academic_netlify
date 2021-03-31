@@ -23,43 +23,27 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-# - certificate_url: https://www.coursera.org
-#   date_end: ""
-#   date_start: "2018-10-01"
-#   description: ""
-#   organization: Coursera
-#   organization_url: https://www.coursera.org
-#   title: Neural Networks and Deep Learning
-#   url: ""
-# - certificate_url: https://www.edx.org
-#   date_end: ""
-#   date_start: "2018-03-01"
-#   description: Formulated informed blockchain models, hypotheses, and use cases.
-#   organization: edX
-#   organization_url: https://www.edx.org
-#   title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-# - certificate_url: https://www.datacamp.com
-#   date_end: "2017-12-21"
-#   date_start: "2017-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R: S3 and R6 Course'
-#   url: ""
 - title: 3rd Place in Best student paper competition
   date_start: "2021-03-22"
   description: "Nominated for Best student paper as one of the six finalists. Ranked 3rd in the competition."
   organization: American Medical Informatics Association (AMIA)
   organization_url: https://www.amia.org/summit2021
-
+- title: 3rd Place in Hackathon
+  date_start: "2019-11-05"
+  description: "Won third place in ***RamHacks-2019*** organized by VCU for designing web app to recommend articles in real-estate domain "
+  organization: Virginia Commonwealth University, USA
+  organization_url: https://www.vcu.edu
 - title: University award for academic excellence
   date_start: "2015-12-05"
   description: "Award for academic excellence by the University"
   organization: University of Peradeniya
   organization_url: https://www.pdn.ac.lk
+- title: CAPWIC scholarship
+  date_start: "2021-03-27"
+  description: "To attend and present in the ACM CAPWIC conference"
+  organization: Christopher newport university (CNU)
+  organization_url: https://capwic.org/
 - title: Travel grant award - 2021
-  date_end: ""
   date_start: "2021-03-22"
   description: "Awarded to attend and deliver a talk in the American Medical Informatics Association (AMIA)-2021 Virtual Informatics Summit"
   organization: Virginia Commonwealth University
