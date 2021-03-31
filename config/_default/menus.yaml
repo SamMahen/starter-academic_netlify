@@ -19,9 +19,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
-  - name: Awards
-    url: '#accomplishments'
-    weight: 50
+  # - name: Awards
+  #   url: '#accomplishments'
+  #   weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
