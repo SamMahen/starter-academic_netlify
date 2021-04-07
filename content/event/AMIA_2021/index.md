@@ -22,7 +22,12 @@ model-based approach. We evaluate our system on the n2c2-2018 ADE extraction dat
 demonstrate that the contextualized language model-based approach outperformed other models overall and obtain
 the state-of-the-art performance in ADE extraction with a Precision of 0.93, Recall of 0.96, and an F 1 score of
 0.94; however, for certain relation types, the rule-based approach obtained a higher Precision and Recall than either
-learning approach."
+learning approach.
+
+This talk won Third place in the Best student paper award competition. 
+link:  https://www.amia.org/summit2021/award-winners"
+
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

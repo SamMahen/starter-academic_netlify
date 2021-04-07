@@ -27,10 +27,10 @@ item:
   date_start: "2021-03-22"
   description: "Nominated for Best student paper as one of the six finalists. Ranked 3rd in the competition."
   organization: American Medical Informatics Association (AMIA)
-  organization_url: https://www.amia.org/summit2021
+  organization_url:  https://www.amia.org/summit2021/award-winners
 - title: 3rd Place in Hackathon
   date_start: "2019-11-05"
-  description: "Won third place in ***RamHacks-2019*** organized by VCU for designing web app to recommend articles in real-estate domain "
+  description: "Won third place in ***VCU RamHacks-2019*** organized by VCU for designing web app to recommend articles in real-estate domain "
   organization: Virginia Commonwealth University, USA
   organization_url: https://www.vcu.edu
 - title: University award for academic excellence
